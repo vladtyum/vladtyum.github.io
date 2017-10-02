@@ -34,13 +34,16 @@ __location:__ China, Shenzhen
 
 ___
 __Why Github pages:__
-there were so many things that I've learned and Evernoted, then never moderated. Now they are just some forgotten notes, one of three thousand others.
+1. Having some personal webspace.  Keeping some learning notes public, pushes to moderate them and to keep them in order
+2. Opportunity to make my tiny impact to society, in returned what I learned for free.
+3. Convenience of pages.github.io
+
+There were so many things that I've learned and Evernoted, then never moderated. Now they are just some forgotten notes, one of three thousand others.
 Having public repo, (despite the fact , that no one is going to visit it) pushes you to keep that relatively in order. Sort of summary of what I've been going through.
-
 Nowadays I really agree about not making notes/log of Django web development, best practices of server deployment and stuff.
+On top of that, if someone someday find some of my notes helpful, I'll be just happy about it .
 
-And if someone someday find these writings helpful, I'll be just happy about it .
-
+___
 
 [vladtyum@yahoo.com](mailto:vladtyum@yahoo.com)  
 ![](assets/README-9af6bae5.jpg)
