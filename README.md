@@ -39,8 +39,7 @@ Having public repo, (despite the fact , that no one is going to visit it) pushes
 
 Nowadays I really agree about not making notes/log of Django web development, best practices of server deployment and stuff.
 
-And if someone someday find these wrings helpful, I'll be just happy about it .
-___
+And if someone someday find these writings helpful, I'll be just happy about it .
 
 
 [vladtyum@yahoo.com](mailto:vladtyum@yahoo.com)  
