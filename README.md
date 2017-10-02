@@ -11,7 +11,7 @@ Another 'greatness' is to have public 'la Evernote to have some stuff available 
 ##### Briefly about myself:
 
 __location:__ China, Shenzhen  
-__work:__[Solbit.com](http://solbit.com)  
+__work:__[SolbitRobot.com](http://solbitrobot.com)  
 __hobby:__ [SzMakers.com](http://szmakers.com)
 
 
