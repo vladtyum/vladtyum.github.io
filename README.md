@@ -28,15 +28,16 @@ __location:__ China, Shenzhen
 
 ##### study:
 - Linux. Bless you, community
-- machine learning
+- [machine learning](https://github.com/vladtyum/Lynda-SimpleMachineLrn-And-AIFoundations)
 - building 8-Bit computer
 
 
 ___
 __Why Github pages:__
-1. Having some personal webspace.  Keeping some learning notes public, pushes to moderate them and to keep them in order
-2. Opportunity to make my tiny impact to society, in returned what I learned for free.
-3. Convenience of pages.github.io
+1. Available in/out-side of China. Without VPN on/off. Free for keeping notes, with pics.
+2. Having some personal webspace.  Keeping some learning notes public, pushes me to moderate and to keep them in order
+3. Opportunity to make my tiny impact to society, in returned what I learned for free.
+4. Convenience of pages.github.io
 
 There were so many things that I've learned and Evernoted, then never moderated. Now they are just some forgotten notes, one of three thousand others.
 Having public repo, (despite the fact , that no one is going to visit it) pushes you to keep that relatively in order. Sort of summary of what I've been going through.
